@@ -1,0 +1,2202 @@
+{
+  "322e4ec3927d414bdfccfbae24e7351f": {
+    "timestamp": 1755272427563,
+    "analysis": {
+      "score": 7,
+      "reason": "특검의 압수수색 대비와 관련된 내용으로, 수사 진행 상황과 관련이 있다.",
+      "category": "진행상황"
+    }
+  },
+  "3244fc30781705d37c1312a833a5a9de": {
+    "timestamp": 1755272427595,
+    "analysis": {
+      "score": 2,
+      "reason": "특검과 관련된 내용이 없고 일반 정치 뉴스로 보임.",
+      "category": "일반정치"
+    }
+  },
+  "b00b34c154bda4c8e268ff46e1d76cb6": {
+    "timestamp": 1755272427607,
+    "analysis": {
+      "score": 2,
+      "reason": "특검과 관련된 내용이 없고 일반 정치 뉴스에 해당함.",
+      "category": "일반정치"
+    }
+  },
+  "7fdd575bcef78cb6ecc20f2e8b6c8c46": {
+    "timestamp": 1755272427631,
+    "analysis": {
+      "score": 4,
+      "reason": "민주당의 발언이 특정 인물에 대한 비판을 포함하고 있어 특검 관련 인물 언급이 있지만, 직접적인 수사 내용은 없음.",
+      "category": "관련인물"
+    }
+  },
+  "38c607c2649d25266ee575854b2ec6bb": {
+    "timestamp": 1755272427914,
+    "analysis": {
+      "score": 6,
+      "reason": "김건희 여사와 관련된 특검 수사가 언급되어 있어 관련성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "c5d26bf854627daec4985139510a0384": {
+    "timestamp": 1755272427685,
+    "analysis": {
+      "score": 5,
+      "reason": "특검 관련 인물인 김명수, 이승오, 김용대가 언급되어 있어 관련성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "6b85c015c1f38afdeec110700a9a2aee": {
+    "timestamp": 1755272427699,
+    "analysis": {
+      "score": 8,
+      "reason": "특검이 박성재에 대해 '내란방조' 적용을 검토하고 있어 수사 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "83c8cb0b61908e8ca10d1ab3d06ed770": {
+    "timestamp": 1755272427704,
+    "analysis": {
+      "score": 6,
+      "reason": "신혜식의 출석이 내란특검과 관련된 인물로서의 중요성을 나타냄.",
+      "category": "관련인물"
+    }
+  },
+  "4ded6170145c324359b8b347c8a27bae": {
+    "timestamp": 1755272427872,
+    "analysis": {
+      "score": 6,
+      "reason": "특검과 관련된 인물인 박성재가 언급되어 있어 관련성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "e64c94f5d2b544726525b63171e18aad": {
+    "timestamp": 1755272427729,
+    "analysis": {
+      "score": 4,
+      "reason": "조국과 관련된 정치적 발언이지만 특검 수사와의 직접적인 연관성은 낮음.",
+      "category": "관련인물"
+    }
+  },
+  "2123704bc5ecf3eabcd1054cc70adc5f": {
+    "timestamp": 1755272427737,
+    "analysis": {
+      "score": 2,
+      "reason": "특검과 직접적인 관련이 없는 일반 정치적 발언으로 보임.",
+      "category": "일반정치"
+    }
+  },
+  "ff0f9deeb6c270d4d1b232e1059ebd71": {
+    "timestamp": 1755272427743,
+    "analysis": {
+      "score": 2,
+      "reason": "특검과 관련된 내용이 없고 일반 정치적 상황을 다루고 있음.",
+      "category": "일반정치"
+    }
+  },
+  "676ec21db95a16fe446f2c89df9383ac": {
+    "timestamp": 1755272427772,
+    "analysis": {
+      "score": 2,
+      "reason": "특검과 직접적인 관련이 없는 역사적 주제를 다루고 있음.",
+      "category": "일반정치"
+    }
+  },
+  "38f44e3a5553f8b4947db5971078e5c3": {
+    "timestamp": 1755272428130,
+    "analysis": {
+      "score": 4,
+      "reason": "김건희가 언급되었지만, 특검 수사와의 직접적인 관련성은 낮음.",
+      "category": "관련인물"
+    }
+  },
+  "285aa6ce908cdbd194e5924c6ea2caab": {
+    "timestamp": 1755272427813,
+    "analysis": {
+      "score": 2,
+      "reason": "특검과 직접적인 관련이 없는 일반 정치 뉴스로 보임.",
+      "category": "일반정치"
+    }
+  },
+  "11df15921a172878e382a9fae73a3602": {
+    "timestamp": 1755272427833,
+    "analysis": {
+      "score": 8,
+      "reason": "특검 수사의 진행 상황과 관련된 조사 일정이 언급됨.",
+      "category": "진행상황"
+    }
+  },
+  "1a66ca2ad251539abbcce3e16e1da3e1": {
+    "timestamp": 1755272427817,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 수사 진행 상황과 관련된 인물 소환 가능성이 언급됨.",
+      "category": "진행상황"
+    }
+  },
+  "c5d28108a8b2f2fd0ce2cbee20d1e624": {
+    "timestamp": 1755272427824,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 수사의 진행 상황과 관련된 내용이 포함되어 있음.",
+      "category": "진행상황"
+    }
+  },
+  "68d371c8cca19991bc8fc9225331dd86": {
+    "timestamp": 1755272427834,
+    "analysis": {
+      "score": 2,
+      "reason": "특검과 관련된 내용이 없고 일반 정치적 발언에 해당함.",
+      "category": "일반정치"
+    }
+  },
+  "be0c75816eef5137c8c86867e4edd2c0": {
+    "timestamp": 1755272428835,
+    "analysis": {
+      "score": 6,
+      "reason": "국민의힘의 압수수색 재집행 가능성 언급이 특검과 관련된 정치적 맥락을 포함하고 있음.",
+      "category": "관련인물"
+    }
+  },
+  "0a8c8376cd79f320ce2d6d8bbc0f7aac": {
+    "timestamp": 1755272427862,
+    "analysis": {
+      "score": 4,
+      "reason": "특검 관련 인물인 김건희가 언급되었지만, 구체적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "376f637071b3227f29d42acd2f7628fa": {
+    "timestamp": 1755272427864,
+    "analysis": {
+      "score": 6,
+      "reason": "김예성의 구속이 김건희와 관련되어 있어 특검과의 연관성이 있다.",
+      "category": "관련인물"
+    }
+  },
+  "701454f3071e092429eb7089341547a3": {
+    "timestamp": 1755272427869,
+    "analysis": {
+      "score": 4,
+      "reason": "윤 전 대통령이 언급되어 특검 관련 인물로서의 연관성이 있지만, 구체적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "1ef144c36890bbf2e328a61b818f15de": {
+    "timestamp": 1755272428045,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 수사의 진행 상황과 관련된 추가 조사 및 소환 일정이 언급됨.",
+      "category": "진행상황"
+    }
+  },
+  "ba2d3f207f0972089fc116c86c55a96d": {
+    "timestamp": 1755272428096,
+    "analysis": {
+      "score": 4,
+      "reason": "김건희가 언급되었지만, 특검 수사와의 직접적인 관련성은 낮음.",
+      "category": "관련인물"
+    }
+  },
+  "28e626a654ed11976af6cf815e7b2ea7": {
+    "timestamp": 1755272427880,
+    "analysis": {
+      "score": 6,
+      "reason": "특검보와 경찰간부 간의 갈등이 특검 수사와 관련이 있어 보인다.",
+      "category": "관련인물"
+    }
+  },
+  "c6dd1f55eb49dbb43ffc3507a09fa757": {
+    "timestamp": 1755272427893,
+    "analysis": {
+      "score": 4,
+      "reason": "김건희와 관련된 후원금 요청이 언급되어 특검 관련 인물로서의 연관성이 있다.",
+      "category": "관련인물"
+    }
+  },
+  "a494dd53fcaf3a9bc771421d2ddff3ee": {
+    "timestamp": 1755272427900,
+    "analysis": {
+      "score": 6,
+      "reason": "'김건희 집사' 김예성의 구속 여부가 특검과 관련된 인물로 언급되어 있어 관련성이 있다.",
+      "category": "관련인물"
+    }
+  },
+  "3001b13202ce12ac0020c58c41cdc75f": {
+    "timestamp": 1755272427900,
+    "analysis": {
+      "score": 6,
+      "reason": "'김건희 집사' 김예성이 구속되면서 특검 관련 인물의 법적 상황이 언급됨",
+      "category": "관련인물"
+    }
+  },
+  "b2636f6e6c45d86fa527562e927bd6fc": {
+    "timestamp": 1755272427903,
+    "analysis": {
+      "score": 2,
+      "reason": "특검과 관련된 내용이 없고 일반 정치 뉴스로 보임",
+      "category": "일반정치"
+    }
+  },
+  "862c023d71d25a64154bbd3f181d6194": {
+    "timestamp": 1755272427980,
+    "analysis": {
+      "score": 4,
+      "reason": "이준석과 이춘석 의원실 압색이 특검과 관련된 인물 및 배경을 언급하고 있어 점수를 부여함.",
+      "category": "관련인물"
+    }
+  },
+  "61e342b4eaeb7b39a3d79a372bf01b28": {
+    "timestamp": 1755272427914,
+    "analysis": {
+      "score": 5,
+      "reason": "특검 관련 인물인 조은석과 민주당의 관계를 언급하고 있어 관련성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "b5f7ed93701e4c653e1c12bb04cb9ad8": {
+    "timestamp": 1755272427918,
+    "analysis": {
+      "score": 6,
+      "reason": "김예성이 김건희와 관련된 인물로, 특검과의 연관성이 있다.",
+      "category": "관련인물"
+    }
+  },
+  "9aae096ddfad9d53f729772cd6234575": {
+    "timestamp": 1755272427927,
+    "analysis": {
+      "score": 5,
+      "reason": "특검과 관련된 정치적 긴장감이 언급되지만, 구체적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "09de488078f8964c59727a620872f0f6": {
+    "timestamp": 1755272427931,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 수사와 관련된 인물과 사건이 언급되어 있어 진행 상황과 관련성이 높음.",
+      "category": "진행상황"
+    }
+  },
+  "42db9ecf4e765d33e658cb693145a77f": {
+    "timestamp": 1755272427941,
+    "analysis": {
+      "score": 9,
+      "reason": "특검의 압수수색과 관련된 내용으로, 핵심 수사 내용이 포함되어 있음.",
+      "category": "핵심수사"
+    }
+  },
+  "7927e53cc428169069e2def19a8c5999": {
+    "timestamp": 1755272427942,
+    "analysis": {
+      "score": 6,
+      "reason": "김예성이 김건희와 관련된 인물로, 특검 수사와의 연관성이 있다.",
+      "category": "관련인물"
+    }
+  },
+  "04b481c3775d5b56884aa460c87691e9": {
+    "timestamp": 1755272427942,
+    "analysis": {
+      "score": 6,
+      "reason": "특검 관련 인물인 채상병이 언급되어 있어 관련성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "28b3f527aadbadb377712d298573db4f": {
+    "timestamp": 1755272427948,
+    "analysis": {
+      "score": 2,
+      "reason": "특검과 관련된 인물이나 사건이 아닌 일반적인 정치 뉴스로 보임.",
+      "category": "일반정치"
+    }
+  },
+  "76e210dff1735d5dbde8d1cc1c5c2c3c": {
+    "timestamp": 1755272427959,
+    "analysis": {
+      "score": 6,
+      "reason": "김건희와 관련된 인물이 언급되어 특검과의 연결성이 존재함.",
+      "category": "관련인물"
+    }
+  },
+  "248ac973efdea8328a0cab34a5129125": {
+    "timestamp": 1755272427959,
+    "analysis": {
+      "score": 8,
+      "reason": "특검팀의 소환 예정과 신병 확보 관련 내용이 포함되어 있어 수사 진행 상황과 밀접하게 연결됨.",
+      "category": "진행상황"
+    }
+  },
+  "f9c0e22ef5898b09061a122f9be66c65": {
+    "timestamp": 1755272427961,
+    "analysis": {
+      "score": 2,
+      "reason": "특검과 관련된 내용이 없고 일반 정치 뉴스로 보임",
+      "category": "일반정치"
+    }
+  },
+  "c460f26c27af2a8a5e1e80aacfcbfa9d": {
+    "timestamp": 1755272427969,
+    "analysis": {
+      "score": 4,
+      "reason": "특검 관련 인물인 윤석열과 김건희가 언급되었으나, 구체적인 수사 내용은 포함되지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "b2beb8e8f40ab7678f6e61b46d085dae": {
+    "timestamp": 1755272427969,
+    "analysis": {
+      "score": 5,
+      "reason": "국힘의 비상대기 언급이 특검과 관련된 정치적 긴장감을 나타내지만, 구체적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "06a33c69dc5483e5b65d12adf61443ca": {
+    "timestamp": 1755272428265,
+    "analysis": {
+      "score": 4,
+      "reason": "특검 관련 인물인 김건희와 윤석열이 언급되었으나, 구체적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "91225daff604044878ef876616688fce": {
+    "timestamp": 1755272427973,
+    "analysis": {
+      "score": 7,
+      "reason": "'평양 무인기 키맨' 김용대의 특검 조사와 관련된 내용으로, 특검 수사 진행 상황을 나타냄.",
+      "category": "진행상황"
+    }
+  },
+  "0985e1fbd0c0f08549c4c229206aaee6": {
+    "timestamp": 1755272427974,
+    "analysis": {
+      "score": 2,
+      "reason": "특검과 관련된 내용이 없고 일반적인 정치적 대화로 보임.",
+      "category": "일반정치"
+    }
+  },
+  "0f085d178cd1a5bb5262da8bae517690": {
+    "timestamp": 1755272428364,
+    "analysis": {
+      "score": 4,
+      "reason": "제목에서 나경원의 발언이 특검 관련 인물인 김건희와 연결될 수 있지만, 직접적인 수사 내용은 언급되지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "c13a641f24810033eca0a51cbcd0cff4": {
+    "timestamp": 1755272429593,
+    "analysis": {
+      "score": 4,
+      "reason": "특검 관련 인물인 김건희가 언급되었으나, 직접적인 수사 내용은 포함되지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "a48e00f845bdf7d3ac7752096d9c9e68": {
+    "timestamp": 1755272427992,
+    "analysis": {
+      "score": 1,
+      "reason": "특검과 관련된 내용이 전혀 없고 일반적인 정치 뉴스에 해당함.",
+      "category": "일반정치"
+    }
+  },
+  "9e91f5a9779177cb1455301bd3761d2f": {
+    "timestamp": 1755272428241,
+    "analysis": {
+      "score": 2,
+      "reason": "특검과 관련된 내용이 없고 일반 정치 뉴스에 해당함.",
+      "category": "일반정치"
+    }
+  },
+  "7e01ef782a3556a2822fb83aca84c994": {
+    "timestamp": 1755272427994,
+    "analysis": {
+      "score": 7,
+      "reason": "김홍균 전 차관의 특검 출석과 관련된 내용으로, 특검 수사 진행 상황을 나타냄.",
+      "category": "진행상황"
+    }
+  },
+  "a60c1abf819521bb209472798da70052": {
+    "timestamp": 1755272427995,
+    "analysis": {
+      "score": 6,
+      "reason": "김건희가 언급되어 특검 관련 인물로서의 연관성이 있다.",
+      "category": "관련인물"
+    }
+  },
+  "5ea1d15bab42ef7f8ad1d8d41e24fc04": {
+    "timestamp": 1755272427998,
+    "analysis": {
+      "score": 2,
+      "reason": "특검과 관련된 내용이 없고 일반 정치 뉴스에 해당함.",
+      "category": "일반정치"
+    }
+  },
+  "f33a1bfda6a70fd0162cc853147f175a": {
+    "timestamp": 1755272427999,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 수사와 관련된 인물 소환이 언급되어 있어 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "92b871c927058c49b45698118b0c0007": {
+    "timestamp": 1755272427999,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 수사 진행 상황과 관련된 인물 재소환 및 현장 방문 언급이 있어 점수가 높음.",
+      "category": "진행상황"
+    }
+  },
+  "b88e3acca8abb5e35403c942435bee88": {
+    "timestamp": 1755272428005,
+    "analysis": {
+      "score": 4,
+      "reason": "특검 관련 인물인 나경원 의원이 언급되었으나, 구체적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "81272f320d376768539308fee992d08c": {
+    "timestamp": 1755272428168,
+    "analysis": {
+      "score": 4,
+      "reason": "김건희 특검과 관련된 인물 언급이 있으나, 구체적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "3a704f41b0eadbba41b27cdb68e0b3cd": {
+    "timestamp": 1755272428961,
+    "analysis": {
+      "score": 7,
+      "reason": "특검이 현장조사를 진행하며 사건 재구성을 다루고 있어 수사 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "ac762602f71faab95a9b376a03313cfa": {
+    "timestamp": 1755272428011,
+    "analysis": {
+      "score": 4,
+      "reason": "특검 관련 인물인 이 대통령의 발언이지만, 직접적인 수사 내용은 없음.",
+      "category": "관련인물"
+    }
+  },
+  "4e3e5fb8fe0d53ed8c2bff23ddaf1bb8": {
+    "timestamp": 1755272428017,
+    "analysis": {
+      "score": 4,
+      "reason": "조국과 관련된 인물 언급으로 특검과의 연결성이 존재하지만, 구체적인 수사 내용은 없음.",
+      "category": "관련인물"
+    }
+  },
+  "3b3a6d7778f665dfa5ee20879c8948a7": {
+    "timestamp": 1755272428019,
+    "analysis": {
+      "score": 5,
+      "reason": "특검 협조를 요구하며 관련 인물과 배경을 언급하고 있어 특검과의 관련성이 있다.",
+      "category": "관련인물"
+    }
+  },
+  "46a3b26f06bb2c439292674226dbc7cf": {
+    "timestamp": 1755272428020,
+    "analysis": {
+      "score": 6,
+      "reason": "특검 대응 전략에 대한 언급이 있어 관련성이 높음.",
+      "category": "관련인물"
+    }
+  },
+  "3cd6f8675432f5123263ea88da9b3988": {
+    "timestamp": 1755272428020,
+    "analysis": {
+      "score": 2,
+      "reason": "특검과 관련된 내용이 없고 일반 정치적 발언으로 보임.",
+      "category": "일반정치"
+    }
+  },
+  "5ff28c84816618541cd3ea6ce3fce782": {
+    "timestamp": 1755272428031,
+    "analysis": {
+      "score": 8,
+      "reason": "김예성의 구속이 특검 수사와 관련된 사건으로 보이며, 집사 게이트와 불법 후원 수사가 본격화되고 있음을 나타냄.",
+      "category": "진행상황"
+    }
+  },
+  "442aa7f1ff413c6406a7f8fdc0e85a31": {
+    "timestamp": 1755272428034,
+    "analysis": {
+      "score": 9,
+      "reason": "특검이 박성재 전 법무부 장관에 대해 '내란 방조'를 적용한 것은 핵심 수사 내용에 해당한다.",
+      "category": "핵심수사"
+    }
+  },
+  "27419ef642bca2c92dc14e1f7df14c11": {
+    "timestamp": 1755272428038,
+    "analysis": {
+      "score": 9,
+      "reason": "김예성의 구속영장은 특검 수사와 직접적으로 관련된 핵심 사건으로 볼 수 있다.",
+      "category": "핵심수사"
+    }
+  },
+  "18e9a628abdef37aa8a50b36f8ca367f": {
+    "timestamp": 1755272428074,
+    "analysis": {
+      "score": 5,
+      "reason": "특검과 관련된 인물 및 의혹 해명이 언급되어 있어 관련성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "b6a8d7e4a3558753fb87d22b91dd53ec": {
+    "timestamp": 1755272428045,
+    "analysis": {
+      "score": 6,
+      "reason": "김건희와 관련된 인물의 구속영장이 발부되어 특검과의 연관성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "07315ed8e152aab9a3d877993e6a3c01": {
+    "timestamp": 1755272428048,
+    "analysis": {
+      "score": 9,
+      "reason": "김건희 특검과 관련된 구속영장 발부 소식으로 핵심 수사 내용에 해당함.",
+      "category": "핵심수사"
+    }
+  },
+  "d56a9bf3c0ed85c60b931f18b73cc2e0": {
+    "timestamp": 1755272428053,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 수사와 관련된 의혹과 인물 언급이 있어 진행 상황과 관련성이 높음.",
+      "category": "진행상황"
+    }
+  },
+  "c14bf6c7d0ffb44e99268af9780f3803": {
+    "timestamp": 1755272428061,
+    "analysis": {
+      "score": 4,
+      "reason": "국힘 의원들의 발언이 특검과 관련된 정치적 맥락을 암시하지만, 구체적인 수사 내용은 언급되지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "25dc37a70eb6f121fbbd362f5421ddae": {
+    "timestamp": 1755272428062,
+    "analysis": {
+      "score": 6,
+      "reason": "'김건희 집사' 김예성의 구속이 특검 관련 인물과 배경을 언급하고 있어 관련성이 있다.",
+      "category": "관련인물"
+    }
+  },
+  "812c9df64fa6de37d2ee08be71c0502a": {
+    "timestamp": 1755272428063,
+    "analysis": {
+      "score": 4,
+      "reason": "차규근이 민주당과의 합당을 언급하며 정치적 맥락을 제공하지만, 특검 수사와의 직접적인 연관성은 낮음.",
+      "category": "관련인물"
+    }
+  },
+  "9ed3d64012eebc3deb58ca19f37b21ac": {
+    "timestamp": 1755272428067,
+    "analysis": {
+      "score": 6,
+      "reason": "신혜식의 출석이 내란 특검과 관련된 인물로 언급되어 있어 특검과의 연관성이 있다.",
+      "category": "관련인물"
+    }
+  },
+  "e3a2b0e4704e9b74eb1269cc744b020d": {
+    "timestamp": 1755272428068,
+    "analysis": {
+      "score": 4,
+      "reason": "이재명 대통령의 발언이 특검 관련 인물로서의 맥락을 가질 수 있지만, 직접적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "ce3f8ac0f314026a31ecdbabb6ad8828": {
+    "timestamp": 1755272428074,
+    "analysis": {
+      "score": 4,
+      "reason": "김건희와 관련된 후원금 요청이 언급되어 특검 관련 인물로서의 연관성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "dd54258ec2686d9f65c519647b1a58d8": {
+    "timestamp": 1755272428076,
+    "analysis": {
+      "score": 2,
+      "reason": "특검과 관련된 내용이 아닌 일반 정치 뉴스로 보임",
+      "category": "일반정치"
+    }
+  },
+  "034b4e81160d09222b13f2eb844fea3a": {
+    "timestamp": 1755272428077,
+    "analysis": {
+      "score": 4,
+      "reason": "김건희와 관련된 비즈니스 제보가 언급되어 특검 관련 인물과 배경이 포함됨.",
+      "category": "관련인물"
+    }
+  },
+  "6d5ab92652dbb7f5cbfeb68d082e7d42": {
+    "timestamp": 1755272428082,
+    "analysis": {
+      "score": 6,
+      "reason": "특검 연장과 관련된 정치적 논의가 포함되어 있어 특검과의 관련성이 있다.",
+      "category": "관련인물"
+    }
+  },
+  "3e97f72ae1507d3e605da13a94431f41": {
+    "timestamp": 1755272428083,
+    "analysis": {
+      "score": 6,
+      "reason": "김예성이 특검 수사와 관련된 인물로 언급되어 있어 특검과의 연관성이 있다.",
+      "category": "관련인물"
+    }
+  },
+  "bede60457b8ea6f77589976abb12e030": {
+    "timestamp": 1755272428083,
+    "analysis": {
+      "score": 6,
+      "reason": "김건희가 특검과 관련된 거짓 해명을 지시한 내용으로, 특검 관련 인물 언급이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "279535e1683872550aaee40c28c20379": {
+    "timestamp": 1755272428084,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 출석과 외압 조사가 언급되어 특검 수사 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "80e92d54754a452977a2ffeeba42e739": {
+    "timestamp": 1755272428095,
+    "analysis": {
+      "score": 4,
+      "reason": "보수정치와 관련된 내용이지만 특검 수사와의 직접적인 연결은 부족함.",
+      "category": "관련인물"
+    }
+  },
+  "04e4f0156d6241e176f5e6451ce505a1": {
+    "timestamp": 1755272428304,
+    "analysis": {
+      "score": 6,
+      "reason": "'집사 게이트'와 김건희의 연관성이 언급되어 특검 관련 인물과 배경을 포함하고 있음.",
+      "category": "관련인물"
+    }
+  },
+  "ebaaa0339d33ed2a120d2ad65ac1906a": {
+    "timestamp": 1755272428099,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 피의자 소환과 관련된 내용으로, 수사 진행 상황을 나타냄.",
+      "category": "진행상황"
+    }
+  },
+  "e870815944615f7f3e5b0e62c729a395": {
+    "timestamp": 1755272428101,
+    "analysis": {
+      "score": 8,
+      "reason": "특검 수사의 진행 상황과 관련된 인물 소환이 언급되어 있어 높은 관련성을 보임.",
+      "category": "진행상황"
+    }
+  },
+  "67e13c0448d7a4db695202a2596c4de8": {
+    "timestamp": 1755272428103,
+    "analysis": {
+      "score": 4,
+      "reason": "김건희와 관련된 언급이 있지만, 특검 수사와의 직접적인 연관성은 낮음.",
+      "category": "관련인물"
+    }
+  },
+  "918acec9eca59c216b398363a4f24fd7": {
+    "timestamp": 1755272428106,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 수사 진행 상황에 대한 언급이 있어 점수가 높음.",
+      "category": "진행상황"
+    }
+  },
+  "a5bb9578cd042cb7c8b7913d4e779de9": {
+    "timestamp": 1755272428109,
+    "analysis": {
+      "score": 4,
+      "reason": "제목에서 '임명식'이 언급되었지만, 특검과의 직접적인 연관성은 낮음.",
+      "category": "관련인물"
+    }
+  },
+  "2897255bae892d59ab55d0441719ad5e": {
+    "timestamp": 1755272428110,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 수사 기간 연장과 진상 규명에 대한 논의가 포함되어 있어 수사 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "1b2d3969fcc6cfaa28af967f82112a58": {
+    "timestamp": 1755272428111,
+    "analysis": {
+      "score": 4,
+      "reason": "특검 관련 인물인 김건희가 언급되었지만, 구체적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "7b02011acc4e1d725c5acd1f6e359648": {
+    "timestamp": 1755272428111,
+    "analysis": {
+      "score": 4,
+      "reason": "'접견 특혜'와 관련된 법무장관의 발언이 특검과 연결될 수 있는 배경을 제공하지만, 구체적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "73e4cd07525419c006c67b45654f157b": {
+    "timestamp": 1755272428112,
+    "analysis": {
+      "score": 4,
+      "reason": "김문수와 관련된 정치적 행동이지만 특검 수사와의 직접적인 연관성은 낮음.",
+      "category": "관련인물"
+    }
+  },
+  "79220f82d56b63c00f75223b050c855a": {
+    "timestamp": 1755272428113,
+    "analysis": {
+      "score": 7,
+      "reason": "특검의 현장조사와 추가 소환이 언급되어 수사 진행 상황과 관련이 깊음",
+      "category": "진행상황"
+    }
+  },
+  "ea05a8a41c8500be7cdf9a94fe60ba50": {
+    "timestamp": 1755272428114,
+    "analysis": {
+      "score": 6,
+      "reason": "신고한 인물과 내란특검의 관련성이 언급되어 있어 특검 관련 인물로 볼 수 있음.",
+      "category": "관련인물"
+    }
+  },
+  "cba68cbeb91b0dab4d78e395cbfb04b6": {
+    "timestamp": 1755272428116,
+    "analysis": {
+      "score": 4,
+      "reason": "특검 관련 인물인 김건희가 언급되었으나, 구체적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "edcd54c5c17ac7478dd0887804dd28f3": {
+    "timestamp": 1755272428119,
+    "analysis": {
+      "score": 6,
+      "reason": "김동혁 국방부 검찰단장이 특검에 소환되며 관련성이 높아짐.",
+      "category": "관련인물"
+    }
+  },
+  "a36e3c65a916aa5b1e725d396576ed54": {
+    "timestamp": 1755272428125,
+    "analysis": {
+      "score": 6,
+      "reason": "김건희 여사와 관련된 의혹이 특검과 연결될 가능성이 있어 관련성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "ef8703ff1c7ba88fb454cef0b394c331": {
+    "timestamp": 1755272428129,
+    "analysis": {
+      "score": 6,
+      "reason": "특검 관련 인물인 법무부 인사정보관리단장이 언급되어 있어 관련성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "8e4f938f1538d623ad905a0db8bccc34": {
+    "timestamp": 1755272428247,
+    "analysis": {
+      "score": 4,
+      "reason": "제목에서 '내란 특검'이 언급되어 관련성을 시사하지만 구체적인 수사 내용은 없음.",
+      "category": "관련인물"
+    }
+  },
+  "ba31f8a5f2203fdd00441a7a32afb210": {
+    "timestamp": 1755272428131,
+    "analysis": {
+      "score": 7,
+      "reason": "김건희 특검과 관련된 비리 수사를 언급하고 있어 특검 수사 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "b69eb520b558e572c05099d298be29ef": {
+    "timestamp": 1755272428241,
+    "analysis": {
+      "score": 6,
+      "reason": "채상병과 관련된 특검의 활동을 언급하고 있어 관련성이 있다.",
+      "category": "관련인물"
+    }
+  },
+  "dbf87893ae8fe30b9227e5905134a26d": {
+    "timestamp": 1755272428135,
+    "analysis": {
+      "score": 6,
+      "reason": "특검 관련 인물인 김건희가 언급되어 있어 관련성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "a0f1decb1ee6491cb5c7e62e0f3c777f": {
+    "timestamp": 1755272428136,
+    "analysis": {
+      "score": 8,
+      "reason": "특검팀이 특정 인물에 대한 조사를 진행하고 있어 수사 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "0b2bf296e556d4bdef06e6b0e393c554": {
+    "timestamp": 1755272428144,
+    "analysis": {
+      "score": 6,
+      "reason": "'김건희 집사' 김예성이 구속되었다는 사실이 특검 관련 인물과 배경을 언급하고 있어 관련성이 있다.",
+      "category": "관련인물"
+    }
+  },
+  "4b45f397f0d2cf3a5a659a12c9ac3403": {
+    "timestamp": 1755272428147,
+    "analysis": {
+      "score": 5,
+      "reason": "특검 수사 방해에 대한 언급이 있어 관련성이 있지만 구체적인 수사 내용은 없음.",
+      "category": "관련인물"
+    }
+  },
+  "31b64ed41661fea9420e2106f0cc44ea": {
+    "timestamp": 1755272428149,
+    "analysis": {
+      "score": 4,
+      "reason": "조국의 석방이 검찰 독재 종식의 상징으로 언급되어 특검 관련 인물과 배경을 암시함.",
+      "category": "관련인물"
+    }
+  },
+  "0551d45928dc1acb0e1dab6bbd559c0c": {
+    "timestamp": 1755272428150,
+    "analysis": {
+      "score": 9,
+      "reason": "특검의 압수수색 재시도와 관련된 핵심 수사 내용이 포함되어 있음.",
+      "category": "핵심수사"
+    }
+  },
+  "574a8960926ae9de788879e0fa5dccee": {
+    "timestamp": 1755272428155,
+    "analysis": {
+      "score": 8,
+      "reason": "특검의 압수수색 재시도와 관련된 내용으로, 수사 진행 상황을 나타냄.",
+      "category": "진행상황"
+    }
+  },
+  "38b1295e87ea5a83fc7bf363a0892997": {
+    "timestamp": 1755272428163,
+    "analysis": {
+      "score": 6,
+      "reason": "김건희와 관련된 수표 수수 의혹이 언급되어 특검과의 연관성이 있다.",
+      "category": "관련인물"
+    }
+  },
+  "3d86d17d3dfad26b11bbc105f0d37020": {
+    "timestamp": 1755272428167,
+    "analysis": {
+      "score": 4,
+      "reason": "김문수의 농성이 특검 관련 인물과 연결될 수 있지만, 직접적인 수사 내용은 언급되지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "f4aaf8a2de83f74b5e36db2589188ca1": {
+    "timestamp": 1755272428206,
+    "analysis": {
+      "score": 7,
+      "reason": "특검이 법무부 전 인사정보관리단장을 조사하는 내용으로, 수사 진행 상황과 관련이 있다.",
+      "category": "진행상황"
+    }
+  },
+  "43c46b6d895862cdb8904fbe3d9df2f2": {
+    "timestamp": 1755272428222,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 수사와 관련된 인물 소환이 언급되어 있어 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "1153cc61d9fd1cd062e8cb512bcb70a9": {
+    "timestamp": 1755272428223,
+    "analysis": {
+      "score": 6,
+      "reason": "특검 출석과 관련된 인물의 기소가 언급되어 있어 특검과의 관련성이 있다.",
+      "category": "관련인물"
+    }
+  },
+  "c20ad8a6a1661fab8fc64ec71050197c": {
+    "timestamp": 1755272428226,
+    "analysis": {
+      "score": 7,
+      "reason": "김건희 여사와 관련된 피의자의 구속은 특검 수사 진행 상황과 밀접한 관련이 있다.",
+      "category": "진행상황"
+    }
+  },
+  "6991c66d5c70d171ced473fe12842c03": {
+    "timestamp": 1755272431098,
+    "analysis": {
+      "score": 6,
+      "reason": "김예성의 구속영장이 발부되었지만, 특검 수사와의 직접적인 연관성은 명확하지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "f82ed8d30662e7165637a32c0d587123": {
+    "timestamp": 1755272428227,
+    "analysis": {
+      "score": 4,
+      "reason": "특검 관련 인물인 신동욱이 언급되었으나, 구체적인 수사 내용은 포함되지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "04dbd4e2a65d563b482b0dcd4c3ae16f": {
+    "timestamp": 1755272428227,
+    "analysis": {
+      "score": 7,
+      "reason": "김예성의 구속은 특검 수사와 관련된 인물의 법적 상황을 반영하고 있어 특검 수사 진행 상황과 연결된다.",
+      "category": "진행상황"
+    }
+  },
+  "5d0a38458d82eef8216178b62002d558": {
+    "timestamp": 1755272428228,
+    "analysis": {
+      "score": 7,
+      "reason": "내란특검과 관련된 수사 진행 상황이 언급되어 있어 점수를 높게 평가함.",
+      "category": "진행상황"
+    }
+  },
+  "67c8b16eb2aed35e7dcd9e7fe5a64c62": {
+    "timestamp": 1755272428228,
+    "analysis": {
+      "score": 4,
+      "reason": "김건희와 관련된 인물 언급으로 특검과의 연관성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "aaea8aba69ab0dbd15aa2496a91acd74": {
+    "timestamp": 1755272428229,
+    "analysis": {
+      "score": 6,
+      "reason": "특검 관련 인물인 추경호와 임종득이 언급되어 있어 관련성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "14d33f3126946706c9064a83ffd4e5d6": {
+    "timestamp": 1755272428232,
+    "analysis": {
+      "score": 4,
+      "reason": "특검 관련 인물인 김건희가 언급되지만, 구체적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "66db4a94d84d2b43073431bd676df892": {
+    "timestamp": 1755272428234,
+    "analysis": {
+      "score": 4,
+      "reason": "제목에 '실명 위험'과 관련된 인물이 언급되어 있어 특검과의 관련성이 있지만, 구체적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "c93f44032a2e9b6791a907ed4776cdec": {
+    "timestamp": 1755272428235,
+    "analysis": {
+      "score": 7,
+      "reason": "특검이 채상병 사망 사건을 재구성하기 위해 방문조사를 진행하고 있어 수사 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "0bf8e2d74f5b748eed3948fbbc1b7d0c": {
+    "timestamp": 1755272428236,
+    "analysis": {
+      "score": 7,
+      "reason": "특검이 외교부 전 차관을 소환한 사건으로, 수사 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "1317ed91e8b0c93cbf56e2d24318e4dd": {
+    "timestamp": 1755272428236,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 수사 진행 상황과 관련된 인물 조사가 언급됨.",
+      "category": "진행상황"
+    }
+  },
+  "2f64c3cee26f954943b602a93cfefd23": {
+    "timestamp": 1755272428239,
+    "analysis": {
+      "score": 9,
+      "reason": "특검팀의 압수수색 재시도와 관련된 핵심 수사 내용이 포함되어 있음.",
+      "category": "핵심수사"
+    }
+  },
+  "41910f41ea1fd70547883654b0264313": {
+    "timestamp": 1755272428242,
+    "analysis": {
+      "score": 4,
+      "reason": "윤 전 대통령이 내란 특검과 관련된 인물로 언급되어 있어 관련성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "a55d1cdfce759079531700e9b07e50b4": {
+    "timestamp": 1755272428242,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 수사의 진행 상황과 관련된 인물들의 재소환이 언급됨.",
+      "category": "진행상황"
+    }
+  },
+  "cae47f2831db89eb6acc13547a199759": {
+    "timestamp": 1755272428243,
+    "analysis": {
+      "score": 7,
+      "reason": "특검이 윤석열 대선 자금과 관련된 수사를 겨냥하고 있어 진행 상황과 관련성이 높음.",
+      "category": "진행상황"
+    }
+  },
+  "37df68a154fae1d96474c9906c8323df": {
+    "timestamp": 1755272428244,
+    "analysis": {
+      "score": 5,
+      "reason": "국민의힘의 압수수색과 관련된 정치적 대응이 특검과 연결될 수 있음.",
+      "category": "관련인물"
+    }
+  },
+  "2c0e66f4cf5e218b5c86a620703a0850": {
+    "timestamp": 1755272428245,
+    "analysis": {
+      "score": 4,
+      "reason": "광개토 사업과 계엄 준비 의혹이 내란 특검과 연결될 가능성이 있어 관련성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "4555ce27a1730ea9c9583aec05fe76c8": {
+    "timestamp": 1755272428245,
+    "analysis": {
+      "score": 8,
+      "reason": "특검의 수사 진행 상황과 관련된 내용이 포함되어 있음.",
+      "category": "진행상황"
+    }
+  },
+  "adfc257deb7f00a5bf035cc8f4e21779": {
+    "timestamp": 1755272428246,
+    "analysis": {
+      "score": 4,
+      "reason": "전 대통령 부부의 구속 언급이 특검 관련 인물과 배경을 암시함.",
+      "category": "관련인물"
+    }
+  },
+  "c8c16e08a57a4d734b5aa3c144e16f79": {
+    "timestamp": 1755272428247,
+    "analysis": {
+      "score": 4,
+      "reason": "특검 관련 인물인 이종호 아내의 주식 거래가 언급되어 있어 관련성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "1050715487db6452bd79ae6d28733c57": {
+    "timestamp": 1755272428248,
+    "analysis": {
+      "score": 9,
+      "reason": "김건희가 특검 사무소에 수갑을 차고 도착한 것은 핵심 수사와 관련된 사건임을 나타냄.",
+      "category": "핵심수사"
+    }
+  },
+  "562f2bb6c11174c6a3efdbdc61306018": {
+    "timestamp": 1755272428251,
+    "analysis": {
+      "score": 7,
+      "reason": "특검이 순직 현장을 방문하고 추가 소환을 진행하는 등 수사 진행 상황을 나타냄.",
+      "category": "진행상황"
+    }
+  },
+  "925d4134731a611dfb6120671a3bf0a3": {
+    "timestamp": 1755272428252,
+    "analysis": {
+      "score": 4,
+      "reason": "김문수와 김건희 특검 관련 인물 언급이 있으나, 직접적인 수사 내용은 없음.",
+      "category": "관련인물"
+    }
+  },
+  "27a12212001612b59b15ab80a5d6cc33": {
+    "timestamp": 1755272428254,
+    "analysis": {
+      "score": 4,
+      "reason": "특검 관련 인물인 윤석열과 관련된 논란이 언급되었으나, 구체적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "ca834657e8bf0c7ad1b8c4aa7523e897": {
+    "timestamp": 1755272428258,
+    "analysis": {
+      "score": 6,
+      "reason": "김건희와 관련된 인물의 구속 소식으로 특검과의 연관성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "63caed6201622d4028618d0f116f1038": {
+    "timestamp": 1755272428625,
+    "analysis": {
+      "score": 7,
+      "reason": "특검이 채상병 순직 장소를 조사하는 것은 수사 진행 상황과 관련이 있다.",
+      "category": "진행상황"
+    }
+  },
+  "859b2ed2efe23a0b09421f471aaac68d": {
+    "timestamp": 1755272428270,
+    "analysis": {
+      "score": 6,
+      "reason": "법원 폭동과 관련된 배후 언급이 특검과 연결될 가능성이 있어 관련성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "ccba361f92a1b6aec1d44ca68689e91d": {
+    "timestamp": 1755272428273,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 압수수색이 언급되어 수사 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "9372687c53eff45dd021d70bda2a6b33": {
+    "timestamp": 1755272428280,
+    "analysis": {
+      "score": 7,
+      "reason": "특검이 이종섭 대사 임명 절차를 수사하고 있어 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "622f3fc1eeab045f476ff1c8c0f616b8": {
+    "timestamp": 1755272428280,
+    "analysis": {
+      "score": 7,
+      "reason": "김예성의 구속영장 발부가 특검 수사와 관련된 인물의 도망 염려를 언급하고 있어 특검 수사 진행 상황과 연결된다.",
+      "category": "진행상황"
+    }
+  },
+  "5223651c9332f3e1cab587a2941f0c72": {
+    "timestamp": 1755272428281,
+    "analysis": {
+      "score": 9,
+      "reason": "특검이 구속영장 발부와 관련된 내용을 다루고 있어 핵심 수사 내용에 해당함.",
+      "category": "핵심수사"
+    }
+  },
+  "b4056aa7958fbf6d421dd6e6ba4e6ad4": {
+    "timestamp": 1755272428281,
+    "analysis": {
+      "score": 4,
+      "reason": "김문수와 이 대통령의 언급이 있지만, 특검 수사와의 직접적인 연관성은 낮음.",
+      "category": "관련인물"
+    }
+  },
+  "8b025885db9000b0151c54dd2b30ad12": {
+    "timestamp": 1755272428282,
+    "analysis": {
+      "score": 6,
+      "reason": "'김건희 측근'이라는 언급이 있어 특검 관련 인물과의 연결이 존재함.",
+      "category": "관련인물"
+    }
+  },
+  "b3d723f184b799f1aee1188d9784f19a": {
+    "timestamp": 1755272428289,
+    "analysis": {
+      "score": 2,
+      "reason": "특검과 관련된 내용이 없고 일반 정치 뉴스에 해당함.",
+      "category": "일반정치"
+    }
+  },
+  "68d97e49e5b68e4bf81eb48f7adce295": {
+    "timestamp": 1755272428290,
+    "analysis": {
+      "score": 5,
+      "reason": "김예성과 최서원 언급으로 특검 관련 인물과 배경이 드러나지만, 구체적인 수사 내용은 없음.",
+      "category": "관련인물"
+    }
+  },
+  "589fdb9be90d897d398fc39cb0dd8d65": {
+    "timestamp": 1755272428291,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 수사와 관련된 인물 소환이 언급되어 있어 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "945da6c22f12f732396d758b76051f01": {
+    "timestamp": 1755272428293,
+    "analysis": {
+      "score": 4,
+      "reason": "특검 관련 인물인 윤석열과 김건희가 언급되었으나, 구체적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "f4364a6dc6260e2f414e1dabd39db56b": {
+    "timestamp": 1755272428298,
+    "analysis": {
+      "score": 8,
+      "reason": "특검의 압수수색과 관련된 대응이 언급되어 있어 수사 진행 상황과 관련성이 높음.",
+      "category": "진행상황"
+    }
+  },
+  "943a84bc4612a089cefa9fefc40d760f": {
+    "timestamp": 1755272428327,
+    "analysis": {
+      "score": 4,
+      "reason": "특검 관련 인물인 이재명과 관련된 발언이 포함되어 있어 관련성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "0f5a52e5caad2a21ae9eeb207a5aa131": {
+    "timestamp": 1755272428301,
+    "analysis": {
+      "score": 4,
+      "reason": "조응천과 관련된 인물 언급이 있으나, 특검 수사와의 직접적인 연관성은 낮음.",
+      "category": "관련인물"
+    }
+  },
+  "197c0d08509806f5f3576881fa4b9727": {
+    "timestamp": 1755272428303,
+    "analysis": {
+      "score": 9,
+      "reason": "특검의 압수수색과 관련된 사건으로, 야당의 반발이 주요 내용이므로 핵심 수사 내용과 밀접하게 연결됨.",
+      "category": "핵심수사"
+    }
+  },
+  "f0db32a73e9f240243f0bdb7e60c38aa": {
+    "timestamp": 1755272428304,
+    "analysis": {
+      "score": 4,
+      "reason": "김건희가 언급되었지만, 특검 수사 진행 상황이나 핵심 내용과는 거리가 있음.",
+      "category": "관련인물"
+    }
+  },
+  "e4f24670ec51d24519b73243315ef559": {
+    "timestamp": 1755272428306,
+    "analysis": {
+      "score": 6,
+      "reason": "특검 관련 인물인 채상병과의 통화 내용이 언급되어 있어 관련성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "96475bcb9658bbd8b728694a8fabe470": {
+    "timestamp": 1755272428307,
+    "analysis": {
+      "score": 7,
+      "reason": "김건희와 관련된 인물의 구속영장이 발부되어 특검 수사와 직접적인 연관성이 있음.",
+      "category": "핵심수사"
+    }
+  },
+  "224da39e106f96e17a9bd2060217326d": {
+    "timestamp": 1755272428308,
+    "analysis": {
+      "score": 8,
+      "reason": "특검이 서부지법 폭동과 관련하여 대통령실을 배후로 지목하고 출석 통보를 한 점에서 수사 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "c8f86456c67dd986076dbf0410f50e13": {
+    "timestamp": 1755272428309,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 수사와 관련된 인물 소환이 언급되어 있어 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "04e78884ba1ee5022f81f8d02634762f": {
+    "timestamp": 1755272428309,
+    "analysis": {
+      "score": 6,
+      "reason": "'집사 게이트'와 관련된 인물인 김예성이 언급되어 특검과의 연결성이 있지만, 구속 결정이 특검 수사 진행 상황을 직접적으로 나타내지는 않음.",
+      "category": "관련인물"
+    }
+  },
+  "e34ce0a3983fb138331287d72fa8a3b4": {
+    "timestamp": 1755272428310,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 수사와 관련된 인물 소환이 언급되어 있어 진행 상황과 관련성이 높음.",
+      "category": "진행상황"
+    }
+  },
+  "4930547ac151710ee231b89eeff1deb0": {
+    "timestamp": 1755272428311,
+    "analysis": {
+      "score": 4,
+      "reason": "김건희와 관련된 의혹이 언급되어 특검과의 연관성이 있지만 구체적인 수사 내용은 없음.",
+      "category": "관련인물"
+    }
+  },
+  "8ba50066b241f223af36507fb51cf41f": {
+    "timestamp": 1755272428313,
+    "analysis": {
+      "score": 6,
+      "reason": "채상병 특검이 현장조사를 진행함으로써 특검과 관련된 인물 및 배경이 언급됨.",
+      "category": "관련인물"
+    }
+  },
+  "21209ba2e8c1dd3d68bda167d1d3b27f": {
+    "timestamp": 1755272428318,
+    "analysis": {
+      "score": 8,
+      "reason": "김동혁 前 검찰단장의 재소환은 특검 수사 진행 상황과 관련이 깊다.",
+      "category": "진행상황"
+    }
+  },
+  "d71ec98847b4d22a9d7a8eba87bd880d": {
+    "timestamp": 1755272428321,
+    "analysis": {
+      "score": 6,
+      "reason": "특검과 관련된 대치 정국을 언급하며 정치적 맥락을 제공하지만, 구체적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "c2265a324077f4168257d5ccddc6291d": {
+    "timestamp": 1755272428323,
+    "analysis": {
+      "score": 4,
+      "reason": "김문수는 특검 관련 인물로 언급되지만, 뉴스 내용은 특검 수사와 직접적인 관련이 없다.",
+      "category": "관련인물"
+    }
+  },
+  "d7eab7b77057a221749ebb7387aca131": {
+    "timestamp": 1755272428325,
+    "analysis": {
+      "score": 6,
+      "reason": "유튜버의 출석이 특검과 관련된 사건을 암시하지만, 구체적인 수사 진행 상황은 언급되지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "ed92b7cb4d6730a08cacd34bfc3ac731": {
+    "timestamp": 1755272428327,
+    "analysis": {
+      "score": 4,
+      "reason": "제목에 조국과 이 대통령이 언급되어 있지만, 특검 수사와의 직접적인 관련성은 낮음.",
+      "category": "관련인물"
+    }
+  },
+  "7e7018447f9dc7356a274669ff89b0dc": {
+    "timestamp": 1755272428328,
+    "analysis": {
+      "score": 6,
+      "reason": "특검이 현장조사를 진행하고 있어 수사와 관련된 배경을 언급하고 있음.",
+      "category": "진행상황"
+    }
+  },
+  "5dc95ab76997c01c146557a3ceb9895d": {
+    "timestamp": 1755272428329,
+    "analysis": {
+      "score": 7,
+      "reason": "특검이 이종섭 전 장관의 호주행 의혹과 관련된 수사를 진행하고 있음을 나타냄.",
+      "category": "진행상황"
+    }
+  },
+  "2726cd102c59f7fb7d0f8d4eeb41e68a": {
+    "timestamp": 1755272428333,
+    "analysis": {
+      "score": 6,
+      "reason": "김건희가 특검과 관련된 인물로 언급되며, 매관매직과 관련된 혐의가 특검 수사와 연결될 가능성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "05d86f2e91ec3af3702b1a8ff08c0264": {
+    "timestamp": 1755272428340,
+    "analysis": {
+      "score": 6,
+      "reason": "해경 간부의 발언이 내란과 관련된 특검 수사와 연결될 가능성이 있어 점수를 부여함.",
+      "category": "관련인물"
+    }
+  },
+  "4411883503423820a9e713add3d086f4": {
+    "timestamp": 1755272428346,
+    "analysis": {
+      "score": 3,
+      "reason": "'절연'과 '포용'의 정치적 갈등을 다루고 있어 특검과는 직접적인 관련이 없음",
+      "category": "일반정치"
+    }
+  },
+  "d7910b167a41a28205624dbcbfaa96a1": {
+    "timestamp": 1755272428347,
+    "analysis": {
+      "score": 6,
+      "reason": "김예성의 구속영장이 발부되었고, 이는 특검과 관련된 인물의 수사와 연결될 수 있음.",
+      "category": "관련인물"
+    }
+  },
+  "5365df870a80d13eb06dcc4293fd48f4": {
+    "timestamp": 1755272428348,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 수사와 관련된 의혹이 언급되어 있어 진행 상황과 관련이 깊다.",
+      "category": "진행상황"
+    }
+  },
+  "74050500a18189d6e698234a552559b9": {
+    "timestamp": 1755272428354,
+    "analysis": {
+      "score": 8,
+      "reason": "특검이 이종섭 도피 의혹과 관련된 인사를 소환하고 있어 수사 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "f94db9ce8446aa2d1194c2f246d46ee2": {
+    "timestamp": 1755272428356,
+    "analysis": {
+      "score": 7,
+      "reason": "김건희 여사와 관련된 사건의 핵심 인물 구속 가능성이 언급되어 특검 수사 진행 상황과 관련이 있다.",
+      "category": "진행상황"
+    }
+  },
+  "06d4e93976bd68a1a68c4f238afaed3f": {
+    "timestamp": 1755272428357,
+    "analysis": {
+      "score": 7,
+      "reason": "김동혁 前 국방부 검찰단장의 소환은 특검 수사 진행 상황과 관련이 있다.",
+      "category": "진행상황"
+    }
+  },
+  "e14ea710529cc8a6d868a19729053da4": {
+    "timestamp": 1755272428363,
+    "analysis": {
+      "score": 6,
+      "reason": "조태용의 출석이 특검과 관련된 인물로 언급되어 있어 특검과의 연관성이 있다.",
+      "category": "관련인물"
+    }
+  },
+  "c8e75f17ef2cde4bb2a6f1c31b2dee99": {
+    "timestamp": 1755272428364,
+    "analysis": {
+      "score": 4,
+      "reason": "특검을 막아야 한다는 언급이 있어 관련성이 있지만, 구체적인 수사 내용은 없음.",
+      "category": "관련인물"
+    }
+  },
+  "c8817ab932407eebd55d5cf36f324faf": {
+    "timestamp": 1755272428366,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 수사와 관련된 인물 소환이 언급되어 있어 수사 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "3c90af74f99baf25d40fd4890f6f006b": {
+    "timestamp": 1755272428367,
+    "analysis": {
+      "score": 9,
+      "reason": "김건희 특검과 관련된 구속영장 발부 소식으로 핵심 수사 내용에 해당함.",
+      "category": "핵심수사"
+    }
+  },
+  "e715eab47bc7da067294a51e8e20f58a": {
+    "timestamp": 1755272428377,
+    "analysis": {
+      "score": 4,
+      "reason": "진보당의 발언이 내란과 관련된 내용을 포함하고 있어 특검과의 연결성이 존재함.",
+      "category": "관련인물"
+    }
+  },
+  "1f8d392d3f1def2cbd103cae4d4d93f9": {
+    "timestamp": 1755272428379,
+    "analysis": {
+      "score": 9,
+      "reason": "특검이 김건희의 신병을 확보하고 국힘 당사를 압수수색한 내용은 핵심 수사와 관련이 깊다.",
+      "category": "핵심수사"
+    }
+  },
+  "67ba6b040e50dcebd387d91adaf10348": {
+    "timestamp": 1755272428381,
+    "analysis": {
+      "score": 4,
+      "reason": "특검 관련 인물인 김문수와 내란 관련 언급이 있지만 구체적인 수사 내용은 없음.",
+      "category": "관련인물"
+    }
+  },
+  "1ac148ac825ce917e7dc4d3394509d78": {
+    "timestamp": 1755272428387,
+    "analysis": {
+      "score": 8,
+      "reason": "특검이 법무부 전 인사정보관리단장을 소환하여 이종섭 임명 과정을 조사하는 내용으로, 수사 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "1ed3286d7bbfb97b79be527266f55754": {
+    "timestamp": 1755272428394,
+    "analysis": {
+      "score": 6,
+      "reason": "김건희 특검과 관련된 이슈를 다루고 있지만, 구체적인 수사 진행 상황은 언급되지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "486cbfe726e3ccd6f1035898b77ef829": {
+    "timestamp": 1755272428406,
+    "analysis": {
+      "score": 8,
+      "reason": "'박정훈 수사'와 관련된 군검사 채상병의 특검 출석이 언급되어 있어 특검 수사 진행 상황과 밀접하게 연결되어 있음.",
+      "category": "진행상황"
+    }
+  },
+  "c1693590298207e06ce525d75430e94b": {
+    "timestamp": 1755272428642,
+    "analysis": {
+      "score": 4,
+      "reason": "채상병 특검과 관련된 인물이 언급되어 있으나, 구체적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "156f3fd61aa97fbff920c74f82aa3c4c": {
+    "timestamp": 1755272428410,
+    "analysis": {
+      "score": 8,
+      "reason": "임종득의 출석은 특검 수사의 진행 상황을 나타내며, 사건의 핵심 인물과 관련이 있다.",
+      "category": "진행상황"
+    }
+  },
+  "0d68d5ef5dd86d2a6fd36cd781d80e03": {
+    "timestamp": 1755272428411,
+    "analysis": {
+      "score": 8,
+      "reason": "특검이 특정 인물의 통화내역을 확인한 것으로, 수사 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "10980a34aca4a86190e842a56aa01cf9": {
+    "timestamp": 1755272428413,
+    "analysis": {
+      "score": 4,
+      "reason": "특검 관련 인물인 윤석열과 김건희가 언급되었으나, 구체적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "86a289f4f7ceea14b4ba6a47bf9f234c": {
+    "timestamp": 1755272428413,
+    "analysis": {
+      "score": 7,
+      "reason": "특검이 이종섭 대사 임명절차에 대한 수사를 진행하고 있어 관련성이 높음.",
+      "category": "진행상황"
+    }
+  },
+  "8d52e26ec5016ec7e84786e7dab8d28d": {
+    "timestamp": 1755272428476,
+    "analysis": {
+      "score": 6,
+      "reason": "김건희와 관련된 인물인 건진법사의 혐의 부인과 자백이 특검 수사에 영향을 미칠 가능성이 있어 관련성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "3c9ee30241a52f9cf51ac8a6570d884b": {
+    "timestamp": 1755272428416,
+    "analysis": {
+      "score": 6,
+      "reason": "특검 관련 인물인 김홍균 전 외교차관의 조사가 언급되어 있어 특검과 관련성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "e3c849a4a185b5453f50419e64371220": {
+    "timestamp": 1755272428419,
+    "analysis": {
+      "score": 4,
+      "reason": "김건희와 윤석열이 언급되어 특검 관련 인물로서의 연관성이 있지만, 구체적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "af40c946a1901ecc87c7a0900127861f": {
+    "timestamp": 1755272428421,
+    "analysis": {
+      "score": 6,
+      "reason": "특검 압색과 관련된 언급이 있어 특검 관련 인물이나 배경을 다루고 있음.",
+      "category": "관련인물"
+    }
+  },
+  "229b250e14e8d6368b43f129ac19c1ac": {
+    "timestamp": 1755272428423,
+    "analysis": {
+      "score": 7,
+      "reason": "해병특검의 수사와 관련된 군검찰 조사가 본격화되었음을 언급하고 있어 진행 상황과 관련이 깊다.",
+      "category": "진행상황"
+    }
+  },
+  "66ab1651e1da6d35e80e82b66b18119c": {
+    "timestamp": 1755272428423,
+    "analysis": {
+      "score": 8,
+      "reason": "특검이 국방부 前검찰단장을 불러 조사하는 내용으로, 수사 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "d57d40afcf07134bf9c68b0a90487e10": {
+    "timestamp": 1755272428424,
+    "analysis": {
+      "score": 8,
+      "reason": "유재은 전 법무관리관의 소환은 특검 수사의 진행 상황과 관련이 깊다.",
+      "category": "진행상황"
+    }
+  },
+  "e73db52c1e0b3fa9239150d93c52fbd5": {
+    "timestamp": 1755272428425,
+    "analysis": {
+      "score": 4,
+      "reason": "채상병 특검이 언급되어 관련성이 있지만 구체적인 수사 내용은 없음.",
+      "category": "관련인물"
+    }
+  },
+  "ff13f9abae28577e354eba060b7462bd": {
+    "timestamp": 1755272428426,
+    "analysis": {
+      "score": 6,
+      "reason": "김예성이 김건희와 관련된 인물로, 특검과의 연관성이 있다.",
+      "category": "관련인물"
+    }
+  },
+  "3cbe68ba61937f0eb4dd53b04dfc026a": {
+    "timestamp": 1755272428436,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 수사 진행 상황과 관련된 내용으로, 구체적인 수사 의혹이 언급됨.",
+      "category": "진행상황"
+    }
+  },
+  "e95554cbc3d750d153a33b1423e68f62": {
+    "timestamp": 1755272428444,
+    "analysis": {
+      "score": 6,
+      "reason": "'김건희 집사' 김예성이 구속되었고, 이는 특검 관련 인물로서 수사와 연결될 수 있음",
+      "category": "관련인물"
+    }
+  },
+  "94b11ba9aca195287d84938398cedd28": {
+    "timestamp": 1755272428445,
+    "analysis": {
+      "score": 6,
+      "reason": "'김건희 집사' 김예성이 구속되었다는 사실이 특검 관련 인물과 배경을 언급하고 있어 관련성이 있다.",
+      "category": "관련인물"
+    }
+  },
+  "141778e49a99cd738cc20e2433823b71": {
+    "timestamp": 1755272428472,
+    "analysis": {
+      "score": 6,
+      "reason": "특검 관련 인물인 김건희와 윤석열의 수사 속도가 언급되어 있어 관련성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "fb449e2b0715a11e550fbcc3b254ce7e": {
+    "timestamp": 1755272428473,
+    "analysis": {
+      "score": 6,
+      "reason": "김예성이 김건희와 관련된 인물로, 특검과의 연관성이 있지만 직접적인 수사 내용은 아님.",
+      "category": "관련인물"
+    }
+  },
+  "2b50e2cb80ca3dddf820f03b90bb2d6c": {
+    "timestamp": 1755272428474,
+    "analysis": {
+      "score": 7,
+      "reason": "특검이 전직 법무부 인사관리단장을 조사하고 있어 수사 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "2c6247dfc7fd2bcc24138ab472ef3a4d": {
+    "timestamp": 1755272428477,
+    "analysis": {
+      "score": 6,
+      "reason": "김건희와 관련된 인사청탁 및 뇌물 의혹이 언급되어 특검과의 관련성이 있다.",
+      "category": "관련인물"
+    }
+  },
+  "bcfcc01e2091934feaf8b12fecfc786c": {
+    "timestamp": 1755272428478,
+    "analysis": {
+      "score": 7,
+      "reason": "조태용 전 안보실장의 3차 조사는 특검 수사의 진행 상황을 나타냄.",
+      "category": "진행상황"
+    }
+  },
+  "7d6db58063d5124e9704f4a4ea450e53": {
+    "timestamp": 1755272428480,
+    "analysis": {
+      "score": 8,
+      "reason": "특검이 수사 외압을 추궁하는 내용으로, 수사 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "2d0e6fd0a9261431ca0791a4eb9bce04": {
+    "timestamp": 1755272428482,
+    "analysis": {
+      "score": 8,
+      "reason": "특검 수사의 진행 상황과 관련된 내용으로, 추가 소환이 언급되어 있어 수사에 대한 구체적인 정보가 포함됨.",
+      "category": "진행상황"
+    }
+  },
+  "354b7480ee9e86a2d5c1c622d61232f7": {
+    "timestamp": 1755272428483,
+    "analysis": {
+      "score": 5,
+      "reason": "김건희가 언급되어 특검 관련 인물로서의 연관성이 있지만, 구체적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "81b7797b7c66c0a031242334e2bcdbb5": {
+    "timestamp": 1755272428485,
+    "analysis": {
+      "score": 6,
+      "reason": "'김건희 집사'라는 표현이 특검 관련 인물과 배경을 언급하고 있어 관련성이 있다.",
+      "category": "관련인물"
+    }
+  },
+  "56d216816fecc1df8378b84d3c675989": {
+    "timestamp": 1755272428486,
+    "analysis": {
+      "score": 4,
+      "reason": "김건희가 언급되었지만, 특검 수사와의 직접적인 관련성은 낮음.",
+      "category": "관련인물"
+    }
+  },
+  "76d77772e6554b5235314be47288613e": {
+    "timestamp": 1755272428489,
+    "analysis": {
+      "score": 8,
+      "reason": "특검 수사의 진행 상황을 나타내는 재소환 소식이 포함되어 있음.",
+      "category": "진행상황"
+    }
+  },
+  "1f42885918d1b012c350704932b3bff2": {
+    "timestamp": 1755272428493,
+    "analysis": {
+      "score": 8,
+      "reason": "이상민의 재소환이 기소 전 혐의 다지기와 관련되어 있어 특검 수사 진행 상황을 나타냄.",
+      "category": "진행상황"
+    }
+  },
+  "afb3cf05c2d19481aee630993c3f5a0b": {
+    "timestamp": 1755272428509,
+    "analysis": {
+      "score": 8,
+      "reason": "김건희와 관련된 대질 요청이 특검 수사 진행 상황을 나타내고 있음.",
+      "category": "진행상황"
+    }
+  },
+  "d2bfe533c65fa7fe8f93a1c2246d6a75": {
+    "timestamp": 1755272428512,
+    "analysis": {
+      "score": 4,
+      "reason": "조국과 민주당의 정치적 상황이 특검과 관련된 인물로 언급되었으나, 직접적인 수사 내용은 없음.",
+      "category": "관련인물"
+    }
+  },
+  "a3be39f704a5ffb1cbea4f87bd0b66ee": {
+    "timestamp": 1755272428520,
+    "analysis": {
+      "score": 4,
+      "reason": "특검 관련 인물인 채상병이 언급되었으나, 구체적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "7046839c353defe21d217a0467863971": {
+    "timestamp": 1755272428531,
+    "analysis": {
+      "score": 9,
+      "reason": "특검 압수수색에 대한 강력 반발이 언급되어 있어 핵심 수사 내용과 관련이 깊음.",
+      "category": "핵심수사"
+    }
+  },
+  "01e302b30ade04913d2ab820b922a77d": {
+    "timestamp": 1755272428551,
+    "analysis": {
+      "score": 4,
+      "reason": "전직 대통령 부부 구속이 특검 수사와 관련된 인물의 상황을 암시함.",
+      "category": "관련인물"
+    }
+  },
+  "1718dfd95b79942a2dba9cb23fa64383": {
+    "timestamp": 1755272428574,
+    "analysis": {
+      "score": 8,
+      "reason": "임성근의 '과실치사'와 윤 부부 혐의가 특검 수사와 직접적으로 관련되어 있어 진행 상황을 나타냄.",
+      "category": "진행상황"
+    }
+  },
+  "8117f4d4aab470af2dfce4640e3fd43f": {
+    "timestamp": 1755272428581,
+    "analysis": {
+      "score": 9,
+      "reason": "김예성의 구속영장은 특검 수사와 직접적으로 관련된 핵심 사건으로, 증거인멸 및 도망 염려가 언급되어 있어 중요성이 높음.",
+      "category": "핵심수사"
+    }
+  },
+  "e7866a39fe08ebdf0d04c66c25244154": {
+    "timestamp": 1755272428586,
+    "analysis": {
+      "score": 4,
+      "reason": "특검 관련 인물인 송언석이 언급되었으나, 구체적인 수사 내용은 포함되지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "aa30cb246ee700cb09470fc18361e2ab": {
+    "timestamp": 1755272428600,
+    "analysis": {
+      "score": 6,
+      "reason": "김동혁 전 국방부 검찰단장이 외압 의혹으로 소환되었으며, 이는 특검과 관련된 인물의 언급이기 때문.",
+      "category": "관련인물"
+    }
+  },
+  "5bb2deb38a190c4025c314aececb443a": {
+    "timestamp": 1755272428602,
+    "analysis": {
+      "score": 7,
+      "reason": "'김건희 집사' 김예성의 구속이 '집사 게이트' 수사에 영향을 미치므로 특검 수사 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "a755673a95185d997d8764cda8f527a3": {
+    "timestamp": 1755272428605,
+    "analysis": {
+      "score": 7,
+      "reason": "특검이 이종섭의 도피 출국을 파헤치고 있어 수사 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "846512bd94a7ba38be3ca97cad3be4d4": {
+    "timestamp": 1755272428610,
+    "analysis": {
+      "score": 7,
+      "reason": "'김건희 집사' 김예성의 구속이 '집사 게이트' 수사에 탄력을 주고 있어 특검 수사 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "835f9ae7016052142def6f5524e704fb": {
+    "timestamp": 1755272428612,
+    "analysis": {
+      "score": 4,
+      "reason": "제목에서 언급된 인물(尹)과 관련된 상황이 특검과 연결될 수 있지만, 구체적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "3a6596429889490d2f0566514a1894be": {
+    "timestamp": 1755272428617,
+    "analysis": {
+      "score": 9,
+      "reason": "'김건희 집사' 김예성의 구속영장은 특검 수사의 핵심 내용으로, 증거 인멸 및 도주 우려가 언급되어 있어 특검과 밀접한 관련이 있음.",
+      "category": "핵심수사"
+    }
+  },
+  "469400c01c4fffb742585e34aaf74753": {
+    "timestamp": 1755272428627,
+    "analysis": {
+      "score": 4,
+      "reason": "국민의힘의 징계와 관련된 내용이지만, 내란 특검과의 직접적인 연관성은 낮음.",
+      "category": "관련인물"
+    }
+  },
+  "b83306fc096fef8c7ca7f16241714483": {
+    "timestamp": 1755272428630,
+    "analysis": {
+      "score": 4,
+      "reason": "특검 관련 인물인 윤석열과 김건희가 언급되었으나, 구체적인 수사 내용은 없음.",
+      "category": "관련인물"
+    }
+  },
+  "ad33ffc1c08620493514170923b7ef9c": {
+    "timestamp": 1755272428643,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 수사 진행 상황과 관련된 사건이 언급되어 있어 점수가 높음.",
+      "category": "진행상황"
+    }
+  },
+  "d707be9f5c347a0b71f21ce3495b5c74": {
+    "timestamp": 1755272428652,
+    "analysis": {
+      "score": 8,
+      "reason": "특검이 군검찰의 외압 및 조작 의혹에 대한 수사를 진행하고 있어 핵심 수사 내용과 관련이 깊음.",
+      "category": "핵심수사"
+    }
+  },
+  "b8058bd13e45d3186732a9549bd978ec": {
+    "timestamp": 1755272428654,
+    "analysis": {
+      "score": 4,
+      "reason": "김문수의 발언이 특검 관련 인물로서 언급되었지만, 구체적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "1e23bbcdc267809e95d2539b4fd09a50": {
+    "timestamp": 1755272428657,
+    "analysis": {
+      "score": 4,
+      "reason": "김문수의 행동이 특검 관련 인물인 김건희와 연결될 수 있는 맥락이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "d26b8fc9e924847571abac92cb0ef3ba": {
+    "timestamp": 1755272428658,
+    "analysis": {
+      "score": 6,
+      "reason": "법무부 전 인사단장이 소환된 사건이 특검과 관련된 인물의 인사검증 문제를 다루고 있어 관련성이 있다.",
+      "category": "관련인물"
+    }
+  },
+  "b11c51275799e0ef95f0b95944c95a8f": {
+    "timestamp": 1755272428681,
+    "analysis": {
+      "score": 9,
+      "reason": "특검의 압수수색 재시도와 관련된 내용으로, 핵심 수사 진행 상황을 나타냄.",
+      "category": "핵심수사"
+    }
+  },
+  "5cee266eeee1e905a3c1472244087936": {
+    "timestamp": 1755272428688,
+    "analysis": {
+      "score": 6,
+      "reason": "'김건희 집사'라는 표현이 특검 관련 인물과의 연관성을 나타내고 있음",
+      "category": "관련인물"
+    }
+  },
+  "1250ec26f71b782e5433510e6480b522": {
+    "timestamp": 1755272428693,
+    "analysis": {
+      "score": 7,
+      "reason": "특검이 채상병 사망 사건을 재구성하는 과정이 언급되어 있어 수사 진행 상황과 관련이 깊다.",
+      "category": "진행상황"
+    }
+  },
+  "72f5fdd62afec89697153ff00719061c": {
+    "timestamp": 1755272428700,
+    "analysis": {
+      "score": 4,
+      "reason": "'통일교 의혹'과 관련된 권성동의 발언이 특검과 연결될 수 있는 인물 언급이지만, 구체적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "1ef8caf533fb685647248c4895f83b6b": {
+    "timestamp": 1755272428702,
+    "analysis": {
+      "score": 8,
+      "reason": "특검 수사 진행 상황과 관련된 내용으로, 특정 인물의 계좌에서 의심스러운 거래가 포착되었음을 언급하고 있음.",
+      "category": "진행상황"
+    }
+  },
+  "e82fe0180f5c450a024e085e79fa6084": {
+    "timestamp": 1755272428723,
+    "analysis": {
+      "score": 7,
+      "reason": "'김건희 집사' 김예성의 구속이 '집사게이트' 수사와 관련되어 있어 특검 수사 진행 상황을 나타냄.",
+      "category": "진행상황"
+    }
+  },
+  "f6a32ac1cc6410e11d9a5ca85c63985a": {
+    "timestamp": 1755272428725,
+    "analysis": {
+      "score": 8,
+      "reason": "김건희 측근의 구속과 관련된 내용으로 특검 수사 진행 상황을 암시함.",
+      "category": "진행상황"
+    }
+  },
+  "622f40183c9693f8bab76261ec1ae50f": {
+    "timestamp": 1755272428747,
+    "analysis": {
+      "score": 6,
+      "reason": "윤 대선과 관련된 정치적 지원이 언급되어 있어 특검 관련 인물과 배경을 포함하고 있음.",
+      "category": "관련인물"
+    }
+  },
+  "4ad8361634f1049b89d364a42a7b1c3b": {
+    "timestamp": 1755272428758,
+    "analysis": {
+      "score": 7,
+      "reason": "채상병 사망 사건의 현장 재구성이 특검 수사 진행 상황과 관련이 있다.",
+      "category": "진행상황"
+    }
+  },
+  "e072140cac52747ed9070fd795e1a665": {
+    "timestamp": 1755272428761,
+    "analysis": {
+      "score": 6,
+      "reason": "'박정훈 표적수사 의혹'과 관련된 인물인 김동훈 전 검찰단장이 언급되어 특검과의 관련성이 있다.",
+      "category": "관련인물"
+    }
+  },
+  "451c896ef4045b7f5553dbcc853141a9": {
+    "timestamp": 1755272428768,
+    "analysis": {
+      "score": 6,
+      "reason": "김건희와 관련된 인물의 방어권 보장 필요성이 언급되어 특검과 관련이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "0d40e66b0020da171c371c1e72ded2ec": {
+    "timestamp": 1755272428789,
+    "analysis": {
+      "score": 6,
+      "reason": "군 인사 및 계엄 의혹이 내란 특검과 관련된 배경을 언급하고 있어 특검과의 연관성이 있다.",
+      "category": "관련인물"
+    }
+  },
+  "5a156193b7cbfcbcfa19f85fd9a97ee1": {
+    "timestamp": 1755272428791,
+    "analysis": {
+      "score": 7,
+      "reason": "조태용 전 국가안보실장의 소환은 특검 수사의 진행 상황을 나타내며, 윤석열 대통령의 지시 여부 조사와 관련이 있다.",
+      "category": "진행상황"
+    }
+  },
+  "499115136f2578a130617017e5b92d30": {
+    "timestamp": 1755272428800,
+    "analysis": {
+      "score": 6,
+      "reason": "'김건희 집사' 김예성의 구속심문이 특검과 관련된 인물임을 나타내므로 점수를 부여함.",
+      "category": "관련인물"
+    }
+  },
+  "6fcd985ebf949873effcac8177bf8509": {
+    "timestamp": 1755272428802,
+    "analysis": {
+      "score": 4,
+      "reason": "제목에서 내란 특검과 관련된 인물이나 배경이 언급되었으나, 직접적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "bcad96985b01122aa2a6e3f6942e89db": {
+    "timestamp": 1755272428804,
+    "analysis": {
+      "score": 8,
+      "reason": "특검이 군검찰의 외압 및 조작 의혹을 수사하고 있어 핵심 수사 내용과 관련이 깊음.",
+      "category": "핵심수사"
+    }
+  },
+  "b6176d09305a4b3372df0c820b962d88": {
+    "timestamp": 1755272428809,
+    "analysis": {
+      "score": 5,
+      "reason": "특검과 관련된 인물인 채상병이 언급되어 있어 관련성이 있음.",
+      "category": "관련인물"
+    }
+  },
+  "0b2f6b74fef4497d7d4fc0c5dc9ed9a3": {
+    "timestamp": 1755272428816,
+    "analysis": {
+      "score": 8,
+      "reason": "특검이 이종섭의 해외도피 의혹을 조사하고 있어 수사 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "e2d9fbb5ad21dafeec0a44e3664afdb1": {
+    "timestamp": 1755272428829,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 수사와 관련된 인물 소환이 언급되어 있어 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "febbbe26320ed8a024813380c9179617": {
+    "timestamp": 1755272428834,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 수사가 본격적으로 진행되고 있으며, 특정 의혹에 대한 수사 내용이 언급됨.",
+      "category": "진행상황"
+    }
+  },
+  "0af9e93f2cb4d3890936af7d0c03aa14": {
+    "timestamp": 1755272428840,
+    "analysis": {
+      "score": 4,
+      "reason": "특검 관련 인물인 채상병이 언급되었으나, 수사 진행 상황과는 직접적인 관련이 없음.",
+      "category": "관련인물"
+    }
+  },
+  "cddfe5ed637a732eac5f973c7753aea9": {
+    "timestamp": 1755272428848,
+    "analysis": {
+      "score": 8,
+      "reason": "특검팀이 삼부토건 주식 거래와 관련된 단서를 확보했다는 내용으로, 수사 진행 상황을 나타냄.",
+      "category": "진행상황"
+    }
+  },
+  "cb7185dafaea8b2f0e258f9bbc7825fb": {
+    "timestamp": 1755272428894,
+    "analysis": {
+      "score": 4,
+      "reason": "특검 관련 인물 언급이 있으나 구체적인 수사 내용은 없음.",
+      "category": "관련인물"
+    }
+  },
+  "c7fdaf7e535b8f41ff7d8cdde72d5a23": {
+    "timestamp": 1755272428904,
+    "analysis": {
+      "score": 7,
+      "reason": "특검의 구속심사와 관련된 내용으로, 수사 진행 상황을 나타냄.",
+      "category": "진행상황"
+    }
+  },
+  "f52885299f433e56a2c7b3b725e8e0ff": {
+    "timestamp": 1755272428923,
+    "analysis": {
+      "score": 7,
+      "reason": "'김건희 집사' 김예성의 구속영장심사가 특검 수사와 관련이 깊음",
+      "category": "진행상황"
+    }
+  },
+  "84e7816cb89aa67b2d9f74d547e51ed7": {
+    "timestamp": 1755272428978,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 수사와 관련된 인물 소환이 언급되어 있어 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "90c3fb98759caf25914f744d10032ca6": {
+    "timestamp": 1755272429002,
+    "analysis": {
+      "score": 7,
+      "reason": "김예성의 구속 영장은 특검 수사와 관련된 중요한 사건으로, 증거 인멸 및 도망 우려가 언급되어 특검의 진행 상황과 연결된다.",
+      "category": "진행상황"
+    }
+  },
+  "9902f8dcad1fe28421816dfba17f31d9": {
+    "timestamp": 1755272429090,
+    "analysis": {
+      "score": 7,
+      "reason": "특검 수사와 관련된 인물인 김예성이 구속 갈림길에 있으며, 김 여사의 출석 일정이 언급되어 특검 수사 진행 상황과 관련이 있다.",
+      "category": "진행상황"
+    }
+  },
+  "816bde8dadb087370862fa2d9aad1dd3": {
+    "timestamp": 1755272429157,
+    "analysis": {
+      "score": 7,
+      "reason": "김예성의 구속이 김건희와의 연결고리와 관련되어 있어 특검 수사 진행 상황과 밀접한 연관이 있음.",
+      "category": "진행상황"
+    }
+  },
+  "bee1403b8c593657e3feb3a6056095a7": {
+    "timestamp": 1755272429337,
+    "analysis": {
+      "score": 8,
+      "reason": "김건희와 관련된 대질 요청이 특검 수사 진행 상황을 나타내고 있음.",
+      "category": "진행상황"
+    }
+  },
+  "72bd7dbbdf421bb3495a81788240fce1": {
+    "timestamp": 1755272429353,
+    "analysis": {
+      "score": 4,
+      "reason": "제목에서 윤 지시와 부하들의 반대가 언급되어 있어 특검 관련 인물과 배경이 드러나지만, 구체적인 수사 내용은 포함되어 있지 않음.",
+      "category": "관련인물"
+    }
+  },
+  "8d4c4d5d7c9065305bf826b13202c0ca": {
+    "timestamp": 1755272430118,
+    "analysis": {
+      "score": 8,
+      "reason": "특검이 박성재에 대한 '내란방조' 적용을 검토하고 있어 수사 진행 상황과 관련이 깊음.",
+      "category": "진행상황"
+    }
+  },
+  "997ed35e0698f2cf5f393ecf73fe0ad9": {
+    "timestamp": 1755272430198,
+    "analysis": {
+      "score": 6,
+      "reason": "김예성 씨의 구속영장이 발부된 사건이 김건희 특검과 관련된 인물로 보이기 때문에 점수를 매김.",
+      "category": "관련인물"
+    }
+  },
+  "e90ba68fd1ad24292e2f56e2d20d97d3": {
+    "timestamp": 1755272431755,
+    "analysis": {
+      "score": 4,
+      "reason": "구치소장 교체와 전화기 반입은 특검 관련 인물과 배경을 암시하지만 직접적인 수사 내용은 아님.",
+      "category": "관련인물"
+    }
+  }
+}
