@@ -47,9 +47,9 @@ function setCachedAnalysis(title: string, analysis: any) {
   try {
     ensureCacheDir();
     
-    let cache = {};
+    let cache: Record<string, any> = {};
     if (fs.existsSync(ANALYSIS_CACHE_FILE)) {
-      cache = JSON.parse(fs.readFileSync(ANALYSIS_CACHE_FILE, 'utf8'));
+      cache = JSON.parse(fs.readFileSync(ANALYSIS_CACHE_FILE, 'utf8')) as Record<string, any>;
     }
     
     const hash = getAnalysisHash(title);
