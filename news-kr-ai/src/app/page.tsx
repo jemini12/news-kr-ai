@@ -30,6 +30,7 @@ interface SummaryData {
     "채상병특검": string;
   };
   key_developments: string[];
+  top_keywords: string[];
   tone: "urgent" | "normal" | "quiet";
   article_count: number;
   generated_at: string;
@@ -214,6 +215,28 @@ export default function Home() {
                         ))}
                       </ul>
                     </div>
+
+                    {/* Top Keywords */}
+                    {summary.top_keywords && summary.top_keywords.length > 0 && (
+                      <div>
+                        <h3 className="font-semibold text-gray-900 mb-2">오늘의 핵심 키워드</h3>
+                        <div className="flex gap-2 flex-wrap">
+                          {summary.top_keywords.map((keyword, index) => (
+                            <a
+                              key={index}
+                              href="#"
+                              onClick={(e) => {
+                                e.preventDefault();
+                                setSearchKeyword(keyword);
+                              }}
+                              className="bg-blue-100 hover:bg-blue-200 text-blue-800 px-3 py-1 rounded-full text-sm font-medium transition-colors no-underline"
+                            >
+                              #{keyword}
+                            </a>
+                          ))}
+                        </div>
+                      </div>
+                    )}
                   </div>
                 ) : null}
               </div>

@@ -16,6 +16,7 @@ interface SummaryResponse {
     "채상병특검": string;
   };
   key_developments: string[];
+  top_keywords: string[];
   tone: "urgent" | "normal" | "quiet";
   article_count: number;
   generated_at: string;
@@ -63,6 +64,7 @@ ${JSON.stringify(articlesForSummary, null, 2)}
     "채상병특검": "채상병 특검 관련 주요 진행사항을 ~습니다 체로 정중하고 자연스럽게 작성 (해당 기사가 없으면 '특별한 동향이 없었습니다')"
   },
   "key_developments": ["오늘의 가장 중요한 발전사항 3개를 ~습니다 체로 정중하고 자연스럽게 배열로 작성"],
+  "top_keywords": ["오늘 가장 중요하고 자주 언급된 키워드 3개를 중요도 순으로 배열 (단, '내란특검', '김건희특검', '채상병특검'은 제외하고 실제 수사 내용과 관련된 구체적인 키워드만 포함)"],
   "tone": "urgent|normal|quiet 중 하나 (수사 강도와 중요도에 따라)"
 }
 
@@ -95,6 +97,7 @@ ${JSON.stringify(articlesForSummary, null, 2)}
           "채상병특검": "분석 중 오류 발생"
         },
         key_developments: ["요약 생성 실패"],
+        top_keywords: ["분석 실패"],
         tone: "normal",
         article_count: articles.length,
         generated_at: new Date().toISOString()
