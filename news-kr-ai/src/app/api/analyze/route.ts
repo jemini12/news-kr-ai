@@ -1,68 +1,20 @@
 import { NextRequest, NextResponse } from 'next/server';
 import OpenAI from 'openai';
-import fs from 'fs';
-import path from 'path';
-import crypto from 'crypto';
+import { cache } from '../../../../lib/supabase-cache';
+
+export const dynamic = 'force-dynamic'; // POST routes need dynamic handling
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
 
-const CACHE_DIR = path.join(process.cwd(), 'cache');
-const ANALYSIS_CACHE_FILE = path.join(CACHE_DIR, 'analysis-cache.json');
-const CACHE_DURATION = 24 * 60 * 60 * 1000; // 24 hours for analysis
-
-function ensureCacheDir() {
-  if (!fs.existsSync(CACHE_DIR)) {
-    fs.mkdirSync(CACHE_DIR, { recursive: true });
-  }
+function getRelevanceIcons(score: number): string {
+  if (score >= 9) return '🔥🔥🔥'; // 9-10: Critical relevance
+  if (score >= 7) return '🔥🔥';   // 7-8: High relevance  
+  if (score >= 6) return '🔥';     // 6: Medium relevance
+  return '';                       // <6: Not shown (filtered out)
 }
 
-function getAnalysisHash(title: string): string {
-  return crypto.createHash('md5').update(title).digest('hex');
-}
-
-function getCachedAnalysis(title: string) {
-  try {
-    if (!fs.existsSync(ANALYSIS_CACHE_FILE)) {
-      return null;
-    }
-    
-    const cache = JSON.parse(fs.readFileSync(ANALYSIS_CACHE_FILE, 'utf8'));
-    const hash = getAnalysisHash(title);
-    const cached = cache[hash];
-    
-    if (cached && Date.now() - cached.timestamp < CACHE_DURATION) {
-      return cached.analysis;
-    }
-    
-    return null;
-  } catch (error) {
-    console.error('Error reading analysis cache:', error);
-    return null;
-  }
-}
-
-function setCachedAnalysis(title: string, analysis: any) {
-  try {
-    ensureCacheDir();
-    
-    let cache: Record<string, any> = {};
-    if (fs.existsSync(ANALYSIS_CACHE_FILE)) {
-      cache = JSON.parse(fs.readFileSync(ANALYSIS_CACHE_FILE, 'utf8')) as Record<string, any>;
-    }
-    
-    const hash = getAnalysisHash(title);
-    cache[hash] = {
-      timestamp: Date.now(),
-      analysis
-    };
-    
-    fs.writeFileSync(ANALYSIS_CACHE_FILE, JSON.stringify(cache, null, 2));
-  } catch (error) {
-    console.error('Error writing analysis cache:', error);
-  }
-}
 
 export async function POST(request: NextRequest) {
   try {
@@ -72,12 +24,13 @@ export async function POST(request: NextRequest) {
       articles.map(async (article: any) => {
         try {
           // Check cache first
-          const cachedAnalysis = getCachedAnalysis(article.title);
+          const cachedAnalysis = await cache.getAnalysis(article.title);
           if (cachedAnalysis) {
             console.log('Using cached analysis for:', article.title);
             return {
               ...article,
               relevanceScore: cachedAnalysis.score,
+              relevanceIcons: getRelevanceIcons(cachedAnalysis.score),
               analysisReason: cachedAnalysis.reason,
               category: cachedAnalysis.category
             };
@@ -104,9 +57,8 @@ export async function POST(request: NextRequest) {
 }`;
 
           const completion = await openai.chat.completions.create({
-            model: "gpt-5o-nano",
+            model: "gpt-5-nano",
             messages: [{ role: "user", content: prompt }],
-            temperature: 0.1,
           });
 
           const responseContent = completion.choices[0].message.content || '{"score": 5, "reason": "분석 실패", "category": "일반정치"}';
@@ -114,12 +66,13 @@ export async function POST(request: NextRequest) {
           
           const analysis = JSON.parse(responseContent);
           
-          // Cache the analysis
-          setCachedAnalysis(article.title, analysis);
+          // Cache the analysis (permanent)
+          await cache.setAnalysis(article.title, analysis);
           
           return {
             ...article,
             relevanceScore: analysis.score,
+            relevanceIcons: getRelevanceIcons(analysis.score),
             analysisReason: analysis.reason,
             category: analysis.category
           };
@@ -128,6 +81,7 @@ export async function POST(request: NextRequest) {
           return {
             ...article,
             relevanceScore: 5,
+            relevanceIcons: '',
             analysisReason: "분석 실패",
             category: "일반정치"
           };

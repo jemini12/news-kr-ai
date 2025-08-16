@@ -1,7 +1,8 @@
 import { NextResponse } from 'next/server';
 import axios from 'axios';
-import fs from 'fs';
-import path from 'path';
+import { cache } from '../../../../lib/supabase-cache';
+
+export const revalidate = 3600; // 1 hour cache
 
 const CLIENT_ID = process.env.CLIENT_ID;
 const CLIENT_SECRET = process.env.CLIENT_SECRET;
@@ -21,10 +22,6 @@ interface NewsItem {
   keyword: string;
 }
 
-const CACHE_DIR = path.join(process.cwd(), 'cache');
-const CACHE_FILE = path.join(CACHE_DIR, 'news-briefing.json');
-const CACHE_DURATION = 60 * 60 * 1000; // 1 hour in milliseconds
-
 function cleanHtmlTags(text: string): string {
   return text
     .replace(/<[^>]+>/g, '')
@@ -35,54 +32,17 @@ function cleanHtmlTags(text: string): string {
     .replace(/&amp;/g, '&');
 }
 
-function ensureCacheDir() {
-  if (!fs.existsSync(CACHE_DIR)) {
-    fs.mkdirSync(CACHE_DIR, { recursive: true });
-  }
-}
-
-function getCachedData() {
-  try {
-    if (!fs.existsSync(CACHE_FILE)) {
-      return null;
-    }
-    
-    const cached = JSON.parse(fs.readFileSync(CACHE_FILE, 'utf8'));
-    const now = Date.now();
-    
-    if (now - cached.timestamp < CACHE_DURATION) {
-      console.log('Using cached data');
-      return cached.data;
-    }
-    
-    console.log('Cache expired');
-    return null;
-  } catch (error) {
-    console.error('Error reading cache:', error);
-    return null;
-  }
-}
-
-function setCachedData(data: any) {
-  try {
-    ensureCacheDir();
-    const cacheData = {
-      timestamp: Date.now(),
-      data
-    };
-    fs.writeFileSync(CACHE_FILE, JSON.stringify(cacheData, null, 2));
-    console.log('Data cached successfully');
-  } catch (error) {
-    console.error('Error writing cache:', error);
-  }
-}
-
 export async function GET() {
   try {
     // Check cache first
-    const cachedData = getCachedData();
+    const cachedData = await cache.getNewsBriefing();
     if (cachedData) {
-      return NextResponse.json({ briefing: cachedData });
+      console.log('Using cached data');
+      return NextResponse.json({ briefing: cachedData }, {
+        headers: {
+          'Cache-Control': 'public, s-maxage=3600, stale-while-revalidate=86400'
+        }
+      });
     }
 
     console.log('Fetching fresh data from Naver API');
@@ -113,17 +73,43 @@ export async function GET() {
 
     const flatResults = allResults.flat();
     
+    // Group articles by title and collect all keywords
+    const articleMap = new Map();
+    flatResults.forEach(article => {
+      const existing = articleMap.get(article.title);
+      if (existing) {
+        // Add keyword to existing article if not already present
+        if (!existing.keywords.includes(article.keyword)) {
+          existing.keywords.push(article.keyword);
+          console.log(`Added keyword "${article.keyword}" to article: ${article.title.substring(0, 50)}...`);
+        }
+      } else {
+        articleMap.set(article.title, {
+          ...article,
+          keywords: [article.keyword] // Convert single keyword to array
+        });
+      }
+    });
+    
+    const uniqueArticles = Array.from(articleMap.values());
+    console.log(`Processed ${flatResults.length} articles into ${uniqueArticles.length} unique articles`);
+    
     const briefingData = {
       timestamp: new Date().toISOString(),
-      totalArticles: flatResults.length,
+      totalArticles: uniqueArticles.length,
       keywords: KEYWORDS,
-      articles: flatResults
+      articles: uniqueArticles
     };
 
     // Cache the fresh data
-    setCachedData(briefingData);
+    await cache.setNewsBriefing(briefingData);
+    console.log('Data cached successfully');
     
-    return NextResponse.json({ briefing: briefingData });
+    return NextResponse.json({ briefing: briefingData }, {
+      headers: {
+        'Cache-Control': 'public, s-maxage=3600, stale-while-revalidate=86400'
+      }
+    });
 
   } catch (error) {
     console.error('Error fetching briefing:', error);
